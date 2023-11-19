@@ -1,0 +1,3 @@
+[submodule "core/libs/straitx-core"]
+	path = core/libs/straitx-core
+	url = git@github.com:straitx/core
