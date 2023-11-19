@@ -1,3 +1,9 @@
 [submodule "core/libs/straitx-core"]
 	path = core/libs/straitx-core
 	url = git@github.com:straitx/core
+[submodule "gui/libs/straitx-imgui"]
+	path = gui/libs/straitx-imgui
+	url = git@github.com:straitx/imgui
+[submodule "gui/libs/straitx-graphics"]
+	path = gui/libs/straitx-graphics
+	url = git@github.com:straitx/graphics
