@@ -8,8 +8,8 @@ add_executable(HydeonGUI
 )
 
 target_link_libraries(HydeonGUI 
-	PRIVATE HydeonCore
-	PRIVATE StraitXCore
-	PRIVATE StraitXGraphics
-	PRIVATE StraitXImGui
+	PUBLIC HydeonCore
+	PUBLIC StraitXCore
+	PUBLIC StraitXGraphics
+	PUBLIC StraitXImGui
 )
