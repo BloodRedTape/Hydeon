@@ -5,6 +5,7 @@ add_subdirectory(libs/straitx-imgui)
 
 add_executable(HydeonGUI
 	"./sources/main.cpp"
+	"./sources/async_input_stream.cpp"
 )
 
 target_link_libraries(HydeonGUI 
